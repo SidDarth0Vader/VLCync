@@ -1,0 +1,5 @@
+pycryptodome==3.21
+pyinstaller==6.11
+PyQt5==5.15
+requests==2.32
+xmltodict==0.14
