@@ -1,0 +1,7 @@
+.vscode
+__pycache__
+build
+dist
+VLCync.spec
+VLCync_Client.log
+config.ini
